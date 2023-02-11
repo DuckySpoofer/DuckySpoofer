@@ -1,5 +1,5 @@
 # DuckSpoofer
-<g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢UD</g-emoji>
+<g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢UNDETECTED</g-emoji>
 <g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢Fortnite</g-emoji>
 <g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢FiveM</g-emoji>
 <g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢Rust</g-emoji>
